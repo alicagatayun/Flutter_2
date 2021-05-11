@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119369814503",
+    "firebase_url": "https://dikmenpazarcisi.firebaseio.com",
+    "project_id": "dikmenpazarcisi",
+    "storage_bucket": "dikmenpazarcisi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119369814503:android:0f10800b2848176df52d42",
+        "android_client_info": {
+          "package_name": "com.pazarci.dikmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119369814503-uggsb7sheqacs9a23j7k9qc2um5k7qlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobt84_xICXCDkvjF8bJMXAT5E_hsVCj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119369814503-uggsb7sheqacs9a23j7k9qc2um5k7qlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
